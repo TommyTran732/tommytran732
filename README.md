@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am Tommy. You may know me as a PrivacyGuides Team Member. I am a good old system administrator and operator of [ArcticFoxes.net](https://arcticfoxes.net/)
 
-My public accounts are listed [here](https://tommytran.io/#contact). If an account not listed there reaches out to you claiming to be me, please send me a message on Matrix or Email for identity verification. Chances are, they are an impersonator.
+My public accounts are listed [here](https://tommytran.io/#contact). If an account not listed on my website reaches out to you claiming to be me, please send me a message on Matrix or Email for identity verification. Chances are, they are an impersonator.
 
 All of my public repositories can be found on my [Gitea Mirror](https://git.tommytran.io/Tomster).
 
