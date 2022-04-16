@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 I am Tommy. You may know me as a PrivacyGuides Team Member. I am a good old system administrator.
 
 My public accounts are listed [here](https://tommytran.io/#contact). If an account not listed there reaches out to you claiming to be me, please send me a message on Matrix or Email for identity verification. Chances are, they are an impersonator.
+
+All of my public GitHub repositories can be found on my [Gitea Mirror](https://git.tommytran.io/Tomster).
+
+My public PGP Key is rsa4096/[25A967C33D210802F7A49380060B29EB996BD9F2](https://tommytran.io/gpg.asc)
