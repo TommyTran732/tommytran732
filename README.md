@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I am Tommy. You may know me as a PrivacyGuides Team Member. I am a good old system administrator.
 
-My public accounts are listed at https://tommytran.io/#contact. If an account not listed there reaches out to you claiming to be meplease send me a message on Matrix or Email for identity verification. Chances are, they are an impersonator.
+My public accounts are listed [here](https://tommytran.io/#contact). If an account not listed there reaches out to you claiming to be me, please send me a message on Matrix or Email for identity verification. Chances are, they are an impersonator.
