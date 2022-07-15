@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Tommy. I am a good old system administrator and operator of [ArcticFoxes.net](https://arcticfoxes.net/). You may also know me as a PrivacyGuides team member.
+I am Tommy. I am a good old system administrator and operator of [ArcticFoxes.net](https://arcticfoxes.net/). You may know me from GrapheneOS channels as a moderator.
 
 My public accounts are listed [here](https://tommytran.io/#contact). If an account not listed on my website reaches out to you claiming to be me, please send me a message on Matrix or Email for identity verification. Chances are, they are an impersonator.
 
