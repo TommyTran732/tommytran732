@@ -21,4 +21,4 @@ My public accounts are listed [here](https://tommytran.io/contact/). If an accou
 
 All of my public repositories can be found on my [Gitea Mirror](https://git.tommytran.io/Tomster).
 
-My public PGP Key is ed25519/[1A8902030179BEF2A90875483DF2709723343A8F](https://tommytran.io/tommy.asc)
+My public PGP Key is ed25519/[F6C55E52C1E5BCA61469FB67D30DEC268D3FEB17](https://tommytran.io/tommy.asc)
