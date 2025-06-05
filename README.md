@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Tommy. I am a good old system administrator and operator of [Metropolis.nexus](https://github.com/metropolis-nexus). Repository having to do with server management previously in my namespace have been transfered to [Metropolis.nexus](https://github.com/metropolis-nexus).
+I am Tommy. I am a good old system administrator and operator of [Metropolis.nexus](https://github.com/metropolis-nexus). Repository having to do with server management previously in my namespace have been transfered there.
 
 My public accounts are listed [here](https://tommytran.io/contact/). If an account not listed on my website reaches out to you claiming to be me, please send me a message on Matrix or Email for identity verification. Chances are, they are an impersonator.
 
